@@ -1,0 +1,1 @@
+class<x>: void main: cannot perform arithmetic on type char: y++;

@@ -1,0 +1,1 @@
+class<x>: int foo: redeclared variable: foo

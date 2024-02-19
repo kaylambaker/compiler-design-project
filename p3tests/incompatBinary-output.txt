@@ -1,0 +1,1 @@
+class<x>: int main: cannot perform boolean operation types float and float using || operator: y || y

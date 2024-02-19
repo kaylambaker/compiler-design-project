@@ -1,0 +1,1 @@
+class<x>: void main: cannot use operator ~ on type char: ~y

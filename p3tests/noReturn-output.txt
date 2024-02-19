@@ -1,0 +1,1 @@
+class<x>: int main: function main expected return type int, got void
